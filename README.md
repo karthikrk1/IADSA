@@ -8,6 +8,8 @@ Short Project 0:
 This is a simple project that does an empirical comparison of two O(nlogn) algorithms: namely Merge Sort and Heap Sort (using Java's Priority Queue)
 The following results were obtained. - Merge Sort's running time is better than Heap sort as input size grows. The experiment was tested for large inputs (> 1 million) and time was calculated for Heap Sort and Merge Sort. 
 
+The project is implemented using Java Generics - can be used for any type of input.
+
 Source File: Sort.java
 
 Short Project 1:
